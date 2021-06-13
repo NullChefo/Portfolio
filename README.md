@@ -1,8 +1,6 @@
 # Portfolio
 
 The information contained in the project does not represent any real information.
-
-
 # Images
 
 ![1](./docs/img/1.png)
