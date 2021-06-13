@@ -1,6 +1,7 @@
 # Portfolio
 
-The information contained in the project does not represent any real information.
+The information contained in the project does not represent any real information. The site does not have any functionality. It is only the design
+
 # Images
 
 ![1](./docs/img/1.png)
